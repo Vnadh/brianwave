@@ -25,3 +25,5 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
 and many more, including code architecture and reusability
+## sreecn short
+![image](https://github.com/user-attachments/assets/eb348d8e-8bc1-49e3-aa40-81dd119e042c)
